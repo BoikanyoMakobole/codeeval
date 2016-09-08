@@ -1,2 +1,2 @@
 # codeeval
-My solutions to codeeval problems
+My solutions to [CodeEval](https://www.codeeval.com/) problems
